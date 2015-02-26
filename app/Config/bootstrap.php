@@ -118,4 +118,6 @@ CakePlugin::load(array(
 			'bootstrap'=>true
 						)
 ));
+
+////pacote de linguagem
 Configure::write('Config.language','br');
