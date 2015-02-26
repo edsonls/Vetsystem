@@ -1,0 +1,212 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-02-13 04:06+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/admin/Controller/DashboardController.php:20
+#: Plugin/admin/View/Layouts/admin.ctp:49
+msgid "Dashboard"
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:21
+#: Plugin/admin/View/Users/admin_index.ctp:24
+msgid "Groups"
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:45
+msgid "Group created."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:61
+#: Plugin/admin/Controller/UsersController.php:67;118
+msgid "Invalid ID"
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:68
+msgid "The Group was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:86
+msgid "Invalid ID."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:91
+msgid "The user was deleted."
+msgstr ""
+
+#: Plugin/admin/Controller/PermissionsController.php:40
+#: Plugin/admin/View/Users/admin_index.ctp:15
+msgid "Permissions"
+msgstr ""
+
+#: Plugin/admin/Controller/PermissionsController.php:167
+msgid "All Controllers was sincronized."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:28
+msgid "Users"
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:51
+msgid "User saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:72
+msgid "User was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:123
+msgid "password was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:137
+msgid "Invalid ID!"
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:141
+msgid "User was deleted."
+msgstr ""
+
+#: Plugin/admin/Controller/Component/AclPermissionsComponent.php:96
+msgid "You have no authority to access this router."
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_add.ctp:3
+#: Plugin/admin/View/Groups/admin_edit.ctp:6
+msgid "Name:"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_add.ctp:17
+#: Plugin/admin/View/Groups/admin_edit.ctp:20
+#: Plugin/admin/View/Users/admin_add.ctp:85
+#: Plugin/admin/View/Users/admin_edit.ctp:89
+#: Plugin/admin/View/Users/admin_reset_password.ctp:32
+msgid "Save"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:12
+#: Plugin/admin/View/Users/admin_add.ctp:15
+#: Plugin/admin/View/Users/admin_edit.ctp:32
+#: Plugin/admin/View/Users/admin_index.ctp:32
+msgid "Name"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:13
+#: Plugin/admin/View/Users/admin_index.ctp:36
+msgid "Actions"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:22
+#: Plugin/admin/View/Users/admin_index.ctp:45
+msgid "Edit"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:29
+#: Plugin/admin/View/Users/admin_index.ctp:52
+msgid "Delete"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:51
+msgid "Languages"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:56
+msgid "Brazilian"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:65
+msgid "English"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:5
+msgid "Sincronize"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:20
+msgid "Section"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:66
+msgid "alowed"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:74
+msgid "denied"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:83
+msgid "allowed"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:3
+#: Plugin/admin/View/Users/admin_edit.ctp:20
+#: Plugin/admin/View/Users/admin_index.ctp:33
+msgid "Group"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:41
+#: Plugin/admin/View/Users/admin_edit.ctp:58
+#: Plugin/admin/View/Users/admin_index.ctp:35
+#: Plugin/admin/View/Users/admin_login.ctp:12
+msgid "Username"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:54
+#: Plugin/admin/View/Users/admin_login.ctp:18
+msgid "Password"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:67
+#: Plugin/admin/View/Users/admin_edit.ctp:71
+msgid "status"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:76
+#: Plugin/admin/View/Users/admin_edit.ctp:80
+msgid "Active"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:77
+#: Plugin/admin/View/Users/admin_edit.ctp:81
+msgid "Unactive"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_edit.ctp:4
+msgid "Reset password"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_index.ctp:4
+msgid "Add"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_login.ctp:9
+msgid "username"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_login.ctp:15
+msgid "password"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_login.ctp:22
+msgid "Login"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_reset_password.ctp:7
+msgid "Password:"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_reset_password.ctp:19
+msgid "Password again:"
+msgstr ""
+

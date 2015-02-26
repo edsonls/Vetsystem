@@ -1,0 +1,1893 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-02-13 04:06+0100\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AnimalsController.php:79;125;164
+msgid "Invalid animal"
+msgstr ""
+
+#: Controller/AnimalsController.php:98;133
+msgid "The animal has been saved."
+msgstr ""
+
+#: Controller/AnimalsController.php:106;141
+msgid "The animal could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AnimalsController.php:173
+msgid "The animal has been deleted."
+msgstr ""
+
+#: Controller/AnimalsController.php:180
+msgid "The animal could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BreedsController.php:64;106;141
+msgid "Invalid breed"
+msgstr ""
+
+#: Controller/BreedsController.php:83;114
+msgid "The breed has been saved."
+msgstr ""
+
+#: Controller/BreedsController.php:91;122
+msgid "The breed could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BreedsController.php:150
+msgid "The breed has been deleted."
+msgstr ""
+
+#: Controller/BreedsController.php:157
+msgid "The breed could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CashFlowsController.php:66;110;147
+msgid "Invalid cash flow"
+msgstr ""
+
+#: Controller/CashFlowsController.php:85;118
+msgid "The cash flow has been saved."
+msgstr ""
+
+#: Controller/CashFlowsController.php:93;126
+msgid "The cash flow could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CashFlowsController.php:156
+msgid "The cash flow has been deleted."
+msgstr ""
+
+#: Controller/CashFlowsController.php:163
+msgid "The cash flow could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:64;122;157
+msgid "Invalid client"
+msgstr ""
+
+#: Controller/ClientsController.php:88;130
+msgid "The client has been saved."
+msgstr ""
+
+#: Controller/ClientsController.php:96;138
+msgid "The client could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClientsController.php:166
+msgid "The client has been deleted."
+msgstr ""
+
+#: Controller/ClientsController.php:173
+msgid "The client could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ClinicsController.php:74;116;151
+msgid "Invalid clinic"
+msgstr ""
+
+#: Controller/ClinicsController.php:93;124
+msgid "The clinic has been saved."
+msgstr ""
+
+#: Controller/ClinicsController.php:101;132
+msgid "The clinic could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ClinicsController.php:160
+msgid "The clinic has been deleted."
+msgstr ""
+
+#: Controller/ClinicsController.php:167
+msgid "The clinic could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ExaminationsController.php:66;110;147
+msgid "Invalid examination"
+msgstr ""
+
+#: Controller/ExaminationsController.php:85;118
+msgid "The examination has been saved."
+msgstr ""
+
+#: Controller/ExaminationsController.php:93;126
+msgid "The examination could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ExaminationsController.php:156
+msgid "The examination has been deleted."
+msgstr ""
+
+#: Controller/ExaminationsController.php:163
+msgid "The examination could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ExaminationsOrdersController.php:67;112;150
+msgid "Invalid examinations order"
+msgstr ""
+
+#: Controller/ExaminationsOrdersController.php:86;120
+msgid "The examinations order has been saved."
+msgstr ""
+
+#: Controller/ExaminationsOrdersController.php:94;128
+msgid "The examinations order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ExaminationsOrdersController.php:159
+msgid "The examinations order has been deleted."
+msgstr ""
+
+#: Controller/ExaminationsOrdersController.php:166
+msgid "The examinations order could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ExpensesController.php:64;106;141
+msgid "Invalid expense"
+msgstr ""
+
+#: Controller/ExpensesController.php:83;114
+msgid "The expense has been saved."
+msgstr ""
+
+#: Controller/ExpensesController.php:91;122
+msgid "The expense could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ExpensesController.php:150
+msgid "The expense has been deleted."
+msgstr ""
+
+#: Controller/ExpensesController.php:157
+msgid "The expense could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/GroupsController.php:38;80;115
+msgid "Invalid group"
+msgstr ""
+
+#: Controller/GroupsController.php:57;88
+msgid "The group has been saved."
+msgstr ""
+
+#: Controller/GroupsController.php:65;96
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GroupsController.php:124
+msgid "The group has been deleted."
+msgstr ""
+
+#: Controller/GroupsController.php:131
+msgid "The group could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:77;109;158;199
+msgid "Invalid order"
+msgstr ""
+
+#: Controller/OrdersController.php:128;166
+msgid "The order has been saved."
+msgstr ""
+
+#: Controller/OrdersController.php:136;174
+msgid "The order could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/OrdersController.php:208
+msgid "The order has been deleted."
+msgstr ""
+
+#: Controller/OrdersController.php:215
+msgid "The order could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PaymentMethodsController.php:64;106;141
+msgid "Invalid payment method"
+msgstr ""
+
+#: Controller/PaymentMethodsController.php:83;114
+msgid "The payment method has been saved."
+msgstr ""
+
+#: Controller/PaymentMethodsController.php:91;122
+msgid "The payment method could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PaymentMethodsController.php:150
+msgid "The payment method has been deleted."
+msgstr ""
+
+#: Controller/PaymentMethodsController.php:157
+msgid "The payment method could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SpeciesController.php:64;106;141
+msgid "Invalid species"
+msgstr ""
+
+#: Controller/SpeciesController.php:83;114
+msgid "The species has been saved."
+msgstr ""
+
+#: Controller/SpeciesController.php:91;122
+msgid "The species could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SpeciesController.php:150
+msgid "The species has been deleted."
+msgstr ""
+
+#: Controller/SpeciesController.php:157
+msgid "The species could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:38;82;119
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:57;90
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:65;98
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:128
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:135
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/VeterinariansController.php:74;116;151
+msgid "Invalid veterinarian"
+msgstr ""
+
+#: Controller/VeterinariansController.php:93;124
+msgid "The veterinarian has been saved."
+msgstr ""
+
+#: Controller/VeterinariansController.php:101;132
+msgid "The veterinarian could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VeterinariansController.php:160
+msgid "The veterinarian has been deleted."
+msgstr ""
+
+#: Controller/VeterinariansController.php:167
+msgid "The veterinarian could not be deleted. Please, try again."
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_login.ctp:23
+msgid "Informe seu login e senha para ter acesso ao painel administrativo."
+msgstr ""
+
+#: View/Animals/add.ctp:3;8
+#: View/Animals/edit.ctp:3;8
+#: View/Animals/index.ctp:3;8
+#: View/Animals/view.ctp:3;8
+msgid "Animals"
+msgstr ""
+
+#: View/Animals/add.ctp:4;9
+msgid "Add Animal"
+msgstr ""
+
+#: View/Animals/add.ctp:7
+#: View/Animals/edit.ctp:7
+#: View/Animals/index.ctp:7
+#: View/Animals/view.ctp:7
+#: View/Breeds/add.ctp:7
+#: View/Breeds/edit.ctp:7
+#: View/Breeds/index.ctp:7
+#: View/Breeds/view.ctp:7
+#: View/CashFlows/add.ctp:7
+#: View/CashFlows/edit.ctp:7
+#: View/CashFlows/index.ctp:7
+#: View/CashFlows/view.ctp:7
+#: View/Clients/add.ctp:6
+#: View/Clients/edit.ctp:7
+#: View/Clients/index.ctp:7
+#: View/Clients/view.ctp:7
+#: View/Clinics/add.ctp:7
+#: View/Clinics/edit.ctp:7
+#: View/Clinics/index.ctp:7
+#: View/Clinics/view.ctp:7
+#: View/Examinations/add.ctp:7
+#: View/Examinations/edit.ctp:7
+#: View/Examinations/index.ctp:7
+#: View/Examinations/view.ctp:7
+#: View/Expenses/add.ctp:7
+#: View/Expenses/edit.ctp:7
+#: View/Expenses/index.ctp:7
+#: View/Expenses/view.ctp:7
+#: View/Groups/add.ctp:6
+#: View/Groups/edit.ctp:6
+#: View/Groups/index.ctp:6
+#: View/Groups/view.ctp:6
+#: View/Orders/add.ctp:9
+#: View/Orders/edit.ctp:7
+#: View/Orders/index.ctp:7
+#: View/Orders/recibo.ctp:7
+#: View/Orders/view.ctp:7
+#: View/PaymentMethods/add.ctp:7
+#: View/PaymentMethods/edit.ctp:7
+#: View/PaymentMethods/index.ctp:7
+#: View/PaymentMethods/view.ctp:7
+#: View/Species/add.ctp:7
+#: View/Species/edit.ctp:7
+#: View/Species/index.ctp:7
+#: View/Species/view.ctp:7
+#: View/Users/add.ctp:6
+#: View/Users/edit.ctp:6
+#: View/Users/index.ctp:6
+#: View/Users/view.ctp:6
+#: View/Veterinarians/add.ctp:7
+#: View/Veterinarians/edit.ctp:7
+#: View/Veterinarians/index.ctp:7
+#: View/Veterinarians/view.ctp:7
+msgid " Home"
+msgstr ""
+
+#: View/Animals/add.ctp:23
+#: View/Animals/edit.ctp:24
+#: View/Animals/index.ctp:40;55
+#: View/Breeds/add.ctp:23
+#: View/Breeds/edit.ctp:24
+#: View/Breeds/index.ctp:35;46
+#: View/Breeds/view.ctp:68
+#: View/CashFlows/add.ctp:23
+#: View/CashFlows/edit.ctp:24
+#: View/CashFlows/index.ctp:38;50
+#: View/Clients/add.ctp:20
+#: View/Clients/edit.ctp:24
+#: View/Clients/index.ctp:41;57
+#: View/Clients/view.ctp:112
+#: View/Clinics/add.ctp:22
+#: View/Clinics/edit.ctp:23
+#: View/Clinics/index.ctp:38;51
+#: View/Examinations/add.ctp:23
+#: View/Examinations/edit.ctp:24
+#: View/Examinations/index.ctp:35;46
+#: View/Examinations/view.ctp:76
+#: View/Expenses/add.ctp:23
+#: View/Expenses/edit.ctp:24
+#: View/Expenses/index.ctp:41;56
+#: View/Orders/add.ctp:25
+#: View/Orders/edit.ctp:24
+#: View/Orders/index.ctp:40;56
+#: View/Orders/view.ctp:101
+#: View/PaymentMethods/add.ctp:23
+#: View/PaymentMethods/edit.ctp:24
+#: View/PaymentMethods/index.ctp:34;44
+#: View/Species/add.ctp:23
+#: View/Species/edit.ctp:24
+#: View/Species/index.ctp:35;46
+#: View/Users/add.ctp:20
+#: View/Users/edit.ctp:21
+#: View/Users/index.ctp:32
+#: View/Users/view.ctp:47
+#: View/Veterinarians/add.ctp:23
+#: View/Veterinarians/edit.ctp:24
+#: View/Veterinarians/index.ctp:39;53
+#: View/Veterinarians/view.ctp:108
+#: Plugin/admin/View/Users/admin_add.ctp:76
+#: Plugin/admin/View/Users/admin_edit.ctp:80
+msgid "Active"
+msgstr ""
+
+#: View/Animals/add.ctp:23
+#: View/Animals/edit.ctp:24
+#: View/Animals/index.ctp:40;57
+#: View/Breeds/add.ctp:23
+#: View/Breeds/edit.ctp:24
+#: View/Breeds/index.ctp:35;48
+#: View/Breeds/view.ctp:70
+#: View/CashFlows/add.ctp:23
+#: View/CashFlows/edit.ctp:24
+#: View/CashFlows/index.ctp:38;52
+#: View/Clients/add.ctp:20
+#: View/Clients/edit.ctp:24
+#: View/Clients/index.ctp:41;59
+#: View/Clients/view.ctp:114
+#: View/Clinics/add.ctp:22
+#: View/Clinics/edit.ctp:23
+#: View/Clinics/index.ctp:38;53
+#: View/Examinations/add.ctp:23
+#: View/Examinations/edit.ctp:24
+#: View/Examinations/index.ctp:35;48
+#: View/Examinations/view.ctp:78
+#: View/Expenses/add.ctp:23
+#: View/Expenses/edit.ctp:24
+#: View/Expenses/index.ctp:41;58
+#: View/Orders/add.ctp:25
+#: View/Orders/edit.ctp:24
+#: View/Orders/index.ctp:40;58
+#: View/Orders/view.ctp:103
+#: View/PaymentMethods/add.ctp:23
+#: View/PaymentMethods/edit.ctp:24
+#: View/PaymentMethods/index.ctp:34;46
+#: View/Species/add.ctp:23
+#: View/Species/edit.ctp:24
+#: View/Species/index.ctp:35;48
+#: View/Users/add.ctp:20
+#: View/Users/edit.ctp:21
+#: View/Users/index.ctp:34
+#: View/Users/view.ctp:49
+#: View/Veterinarians/add.ctp:23
+#: View/Veterinarians/edit.ctp:24
+#: View/Veterinarians/index.ctp:39;55
+#: View/Veterinarians/view.ctp:110
+msgid "Inactive"
+msgstr ""
+
+#: View/Animals/add.ctp:38
+#: View/Animals/edit.ctp:39
+#: View/Breeds/add.ctp:34
+#: View/Breeds/edit.ctp:35
+#: View/CashFlows/add.ctp:34
+#: View/CashFlows/edit.ctp:35
+#: View/Clients/add.ctp:62
+#: View/Clients/edit.ctp:45
+#: View/Clinics/add.ctp:41
+#: View/Clinics/edit.ctp:41
+#: View/Examinations/add.ctp:35
+#: View/Examinations/edit.ctp:35
+#: View/Expenses/add.ctp:37
+#: View/Expenses/edit.ctp:38
+#: View/Groups/add.ctp:32
+#: View/Groups/edit.ctp:33
+#: View/Orders/add.ctp:44
+#: View/Orders/edit.ctp:42
+#: View/PaymentMethods/add.ctp:33
+#: View/PaymentMethods/edit.ctp:34
+#: View/Species/add.ctp:34
+#: View/Species/edit.ctp:35
+#: View/Users/add.ctp:40
+#: View/Users/edit.ctp:40
+#: View/Veterinarians/add.ctp:42
+#: View/Veterinarians/edit.ctp:43
+msgid "Cancelar"
+msgstr ""
+
+#: View/Animals/edit.ctp:4;9
+msgid "Edit Animal"
+msgstr ""
+
+#: View/Animals/index.ctp:4
+#: View/Breeds/index.ctp:4
+#: View/CashFlows/index.ctp:4
+#: View/Clients/index.ctp:4
+#: View/Clinics/index.ctp:4
+#: View/Examinations/index.ctp:4
+#: View/Expenses/index.ctp:4
+#: View/Groups/index.ctp:3
+#: View/Orders/index.ctp:4
+#: View/PaymentMethods/index.ctp:4
+#: View/Species/index.ctp:4
+#: View/Users/index.ctp:3
+#: View/Veterinarians/index.ctp:4
+msgid "All Registered"
+msgstr ""
+
+#: View/Animals/index.ctp:24
+#: View/Breeds/index.ctp:25
+#: View/Breeds/view.ctp:57
+#: View/CashFlows/index.ctp:24
+#: View/Clients/index.ctp:24
+#: View/Clients/view.ctp:99
+#: View/Clinics/index.ctp:24
+#: View/Clinics/view.ctp:86
+#: View/Examinations/index.ctp:25
+#: View/Examinations/view.ctp:57
+#: View/Expenses/index.ctp:24
+#: View/Groups/index.ctp:21
+#: View/Groups/view.ctp:58
+#: View/Orders/index.ctp:24
+#: View/Orders/view.ctp:89
+#: View/PaymentMethods/index.ctp:25
+#: View/PaymentMethods/view.ctp:54
+#: View/Species/index.ctp:25
+#: View/Users/index.ctp:22
+#: View/Veterinarians/index.ctp:24
+#: View/Veterinarians/view.ctp:90
+msgid "created"
+msgstr ""
+
+#: View/Animals/index.ctp:25
+#: View/Breeds/index.ctp:24
+#: View/Breeds/view.ctp:56
+#: View/CashFlows/index.ctp:26
+#: View/Clients/index.ctp:25
+#: View/Clients/view.ctp:98
+#: View/Clinics/index.ctp:25
+#: View/Examinations/index.ctp:24
+#: View/Examinations/view.ctp:59
+#: View/Expenses/index.ctp:26
+#: View/Orders/index.ctp:25
+#: View/Orders/view.ctp:90
+#: View/PaymentMethods/index.ctp:24
+#: View/Species/index.ctp:24
+#: View/Users/index.ctp:19
+#: View/Veterinarians/index.ctp:25
+#: View/Veterinarians/view.ctp:91
+msgid "active"
+msgstr ""
+
+#: View/Animals/index.ctp:26
+msgid "client_id"
+msgstr ""
+
+#: View/Animals/index.ctp:27
+#: View/Breeds/index.ctp:26
+#: View/Breeds/view.ctp:58
+#: View/Clients/index.ctp:26
+#: View/Clients/view.ctp:100
+#: View/Clinics/index.ctp:26
+#: View/Examinations/index.ctp:26
+#: View/Expenses/index.ctp:29
+#: View/Groups/index.ctp:19
+#: View/Groups/view.ctp:61
+#: View/Orders/recibo.ctp:142
+#: View/Orders/view.ctp:91
+#: View/PaymentMethods/index.ctp:26
+#: View/Species/index.ctp:26
+#: View/Users/index.ctp:23
+#: View/Veterinarians/index.ctp:26
+msgid "name"
+msgstr ""
+
+#: View/Animals/index.ctp:28
+#: View/Clients/view.ctp:101
+msgid "specie_id"
+msgstr ""
+
+#: View/Animals/index.ctp:29
+#: View/Clients/view.ctp:102
+msgid "breed_id"
+msgstr ""
+
+#: View/Animals/index.ctp:30
+#: View/Breeds/view.ctp:59
+#: View/Clients/view.ctp:103
+msgid "sex"
+msgstr ""
+
+#: View/Animals/index.ctp:31
+#: View/Breeds/view.ctp:60
+#: View/Clients/view.ctp:104
+msgid "age"
+msgstr ""
+
+#: View/Animals/index.ctp:32
+#: View/Animals/view.ctp:77
+#: View/Breeds/index.ctp:28
+#: View/Breeds/view.ctp:61
+#: View/CashFlows/index.ctp:29
+#: View/Clients/index.ctp:33
+#: View/Clients/view.ctp:105
+#: View/Clinics/index.ctp:30
+#: View/Clinics/view.ctp:87
+#: View/Examinations/index.ctp:28
+#: View/Examinations/view.ctp:67
+#: View/Expenses/index.ctp:32
+#: View/Groups/index.ctp:23
+#: View/Groups/view.ctp:64
+#: View/Orders/index.ctp:32
+#: View/Orders/view.ctp:93
+#: View/PaymentMethods/index.ctp:27
+#: View/PaymentMethods/view.ctp:55
+#: View/Species/index.ctp:28
+#: View/Users/index.ctp:25
+#: View/Veterinarians/index.ctp:31
+#: View/Veterinarians/view.ctp:99
+#: Plugin/admin/View/Groups/admin_index.ctp:13
+#: Plugin/admin/View/Users/admin_index.ctp:36
+msgid "Actions"
+msgstr ""
+
+#: View/Animals/index.ctp:41
+#: View/Breeds/index.ctp:36
+#: View/CashFlows/index.ctp:39
+#: View/Clients/index.ctp:42
+#: View/Clinics/index.ctp:39
+#: View/Examinations/index.ctp:36
+#: View/Expenses/index.ctp:42
+#: View/Expenses/view.ctp:39
+#: View/Orders/index.ctp:41;48
+#: View/Orders/view.ctp:63
+#: View/PaymentMethods/index.ctp:35
+#: View/Species/index.ctp:36
+#: View/Users/view.ctp:44
+#: View/Veterinarians/index.ctp:40
+msgid "Status"
+msgstr ""
+
+#: View/Animals/index.ctp:42
+msgid "All client_id"
+msgstr ""
+
+#: View/Animals/index.ctp:43
+#: View/Breeds/index.ctp:38
+#: View/Clients/index.ctp:43
+#: View/Clinics/index.ctp:40
+#: View/Examinations/index.ctp:38
+#: View/Expenses/index.ctp:45
+#: View/PaymentMethods/index.ctp:37
+#: View/Species/index.ctp:38
+#: View/Veterinarians/index.ctp:41
+msgid "All name"
+msgstr ""
+
+#: View/Animals/index.ctp:44
+msgid "All specie_id"
+msgstr ""
+
+#: View/Animals/index.ctp:45
+msgid "All breed_id"
+msgstr ""
+
+#: View/Animals/index.ctp:46
+msgid "All sex"
+msgstr ""
+
+#: View/Animals/index.ctp:47
+msgid "All age"
+msgstr ""
+
+#: View/Animals/index.ctp:48
+#: View/Breeds/index.ctp:40
+#: View/CashFlows/index.ctp:42
+#: View/Clients/index.ctp:50
+#: View/Clinics/index.ctp:44
+#: View/Examinations/index.ctp:40
+#: View/Expenses/index.ctp:48
+#: View/Orders/index.ctp:49
+#: View/PaymentMethods/index.ctp:38
+#: View/Species/index.ctp:40
+#: View/Veterinarians/index.ctp:46
+msgid "Search"
+msgstr ""
+
+#: View/Animals/index.ctp:79
+#: View/Breeds/index.ctp:61
+#: View/CashFlows/index.ctp:66
+#: View/Clients/index.ctp:76
+#: View/Clinics/index.ctp:67
+#: View/Examinations/index.ctp:61
+#: View/Expenses/index.ctp:73
+#: View/Groups/index.ctp:41
+#: View/Orders/index.ctp:86
+#: View/PaymentMethods/index.ctp:58
+#: View/Species/index.ctp:61
+#: View/Users/index.ctp:51
+#: View/Veterinarians/index.ctp:70
+msgid " View"
+msgstr ""
+
+#: View/Animals/index.ctp:80
+#: View/Breeds/index.ctp:62
+#: View/CashFlows/index.ctp:67
+#: View/Clients/index.ctp:77
+#: View/Clinics/index.ctp:68
+#: View/Examinations/index.ctp:62
+#: View/Expenses/index.ctp:74
+#: View/Groups/index.ctp:41
+#: View/Orders/index.ctp:88
+#: View/PaymentMethods/index.ctp:59
+#: View/Species/index.ctp:62
+#: View/Users/index.ctp:51
+#: View/Veterinarians/index.ctp:71
+msgid " Edit"
+msgstr ""
+
+#: View/Animals/index.ctp:81
+#: View/Breeds/index.ctp:63
+#: View/CashFlows/index.ctp:68
+#: View/Clients/index.ctp:78
+#: View/Clinics/index.ctp:69
+#: View/Examinations/index.ctp:63
+#: View/Expenses/index.ctp:75
+#: View/Groups/index.ctp:41
+#: View/Orders/index.ctp:89
+#: View/PaymentMethods/index.ctp:60
+#: View/Species/index.ctp:63
+#: View/Users/index.ctp:51
+#: View/Veterinarians/index.ctp:72
+msgid " Delete"
+msgstr ""
+
+#: View/Animals/index.ctp:81
+#: View/Animals/view.ctp:94
+#: View/Breeds/index.ctp:63
+#: View/Breeds/view.ctp:86
+#: View/CashFlows/index.ctp:68
+#: View/Clients/index.ctp:78
+#: View/Clients/view.ctp:132
+#: View/Clinics/index.ctp:69
+#: View/Clinics/view.ctp:105
+#: View/Examinations/index.ctp:63
+#: View/Examinations/view.ctp:97
+#: View/Expenses/index.ctp:75
+#: View/Groups/index.ctp:41
+#: View/Groups/view.ctp:91
+#: View/Orders/index.ctp:89
+#: View/Orders/view.ctp:117
+#: View/PaymentMethods/index.ctp:60
+#: View/PaymentMethods/view.ctp:73
+#: View/Species/index.ctp:63
+#: View/Users/index.ctp:51
+#: View/Veterinarians/index.ctp:72
+#: View/Veterinarians/view.ctp:129
+msgid "Are you sure you want to delete the %s?"
+msgstr ""
+
+#: View/Animals/index.ctp:92
+#: View/Breeds/index.ctp:74
+#: View/CashFlows/index.ctp:79
+#: View/Clients/index.ctp:89
+#: View/Clinics/index.ctp:80
+#: View/Examinations/index.ctp:74
+#: View/Expenses/index.ctp:86
+#: View/Groups/index.ctp:52
+#: View/Orders/index.ctp:100
+#: View/PaymentMethods/index.ctp:71
+#: View/Species/index.ctp:74
+#: View/Users/index.ctp:62
+#: View/Veterinarians/index.ctp:83
+msgid "Page {:page} of {:pages}, showing {:current} records out of {:count} total, starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Animals/view.ctp:4
+#: View/Breeds/view.ctp:4
+#: View/CashFlows/view.ctp:4
+#: View/Clients/view.ctp:4
+#: View/Clinics/view.ctp:4
+#: View/Examinations/view.ctp:4
+#: View/Expenses/view.ctp:4
+#: View/Groups/view.ctp:3
+#: View/Orders/view.ctp:4
+#: View/PaymentMethods/view.ctp:4
+#: View/Species/view.ctp:4
+#: View/Users/view.ctp:3
+#: View/Veterinarians/view.ctp:4
+msgid "View"
+msgstr ""
+
+#: View/Animals/view.ctp:9
+msgid "View Animal"
+msgstr ""
+
+#: View/Animals/view.ctp:24
+#: View/Breeds/view.ctp:21
+#: View/CashFlows/view.ctp:21
+#: View/Clients/view.ctp:21
+#: View/Clinics/view.ctp:21
+#: View/Examinations/view.ctp:21
+#: View/Expenses/view.ctp:21
+#: View/Groups/view.ctp:17
+#: View/Orders/view.ctp:21
+#: View/PaymentMethods/view.ctp:21
+#: View/Species/view.ctp:21
+#: View/Users/view.ctp:22
+#: View/Veterinarians/view.ctp:21
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Animals/view.ctp:30
+#: View/Breeds/view.ctp:27
+#: View/CashFlows/view.ctp:27
+#: View/Clients/view.ctp:27
+#: View/Clinics/view.ctp:27
+#: View/Examinations/view.ctp:27
+#: View/Expenses/view.ctp:27
+#: View/Groups/view.ctp:30
+#: View/Orders/recibo.ctp:32
+#: View/Orders/view.ctp:31
+#: View/PaymentMethods/view.ctp:27
+#: View/Species/view.ctp:27
+#: View/Users/view.ctp:38
+#: View/Veterinarians/view.ctp:27
+msgid "Created"
+msgstr ""
+
+#: View/Animals/view.ctp:34
+#: View/Breeds/view.ctp:31
+#: View/CashFlows/view.ctp:31
+#: View/Clients/view.ctp:31
+#: View/Clinics/view.ctp:31
+#: View/Examinations/view.ctp:31
+#: View/Expenses/view.ctp:31
+#: View/Groups/view.ctp:35
+#: View/PaymentMethods/view.ctp:31
+#: View/Species/view.ctp:31
+#: View/Veterinarians/view.ctp:31
+msgid "Modified"
+msgstr ""
+
+#: View/Animals/view.ctp:38
+msgid "Client"
+msgstr ""
+
+#: View/Animals/view.ctp:42
+#: View/Breeds/view.ctp:35
+#: View/Clients/view.ctp:35
+#: View/Clinics/view.ctp:35
+#: View/Examinations/view.ctp:35
+#: View/Expenses/view.ctp:43
+#: View/Groups/view.ctp:20
+#: View/PaymentMethods/view.ctp:35
+#: View/Species/view.ctp:35
+#: View/Users/view.ctp:53
+#: View/Veterinarians/view.ctp:35
+#: Plugin/admin/View/Groups/admin_index.ctp:12
+#: Plugin/admin/View/Users/admin_add.ctp:15
+#: Plugin/admin/View/Users/admin_edit.ctp:32
+#: Plugin/admin/View/Users/admin_index.ctp:32
+msgid "Name"
+msgstr ""
+
+#: View/Animals/view.ctp:46
+msgid "Specie"
+msgstr ""
+
+#: View/Animals/view.ctp:50
+msgid "Breed"
+msgstr ""
+
+#: View/Animals/view.ctp:54
+msgid "Sex"
+msgstr ""
+
+#: View/Animals/view.ctp:58
+#: View/Orders/recibo.ctp:44
+msgid "Age"
+msgstr ""
+
+#: View/Animals/view.ctp:66
+#: View/Examinations/view.ctp:47
+msgid "Related Orders"
+msgstr ""
+
+#: View/Animals/view.ctp:76
+msgid "Order Service"
+msgstr ""
+
+#: View/Breeds/add.ctp:3;8
+#: View/Breeds/edit.ctp:3;8
+#: View/Breeds/index.ctp:3;8
+#: View/Breeds/view.ctp:3;8
+#: View/Elements/navbar-left.ctp:34
+msgid "Breeds"
+msgstr ""
+
+#: View/Breeds/add.ctp:4;9
+msgid "Add Breed"
+msgstr ""
+
+#: View/Breeds/edit.ctp:4;9
+msgid "Edit Breed"
+msgstr ""
+
+#: View/Breeds/index.ctp:27
+#: View/Species/index.ctp:27
+msgid "description"
+msgstr ""
+
+#: View/Breeds/index.ctp:39
+#: View/Species/index.ctp:39
+msgid "All description"
+msgstr ""
+
+#: View/Breeds/view.ctp:9
+msgid "View Breed"
+msgstr ""
+
+#: View/Breeds/view.ctp:39
+#: View/Species/view.ctp:39
+msgid "Description"
+msgstr ""
+
+#: View/Breeds/view.ctp:47
+#: View/Clients/view.ctp:87
+msgid "Related Animals"
+msgstr ""
+
+#: View/CashFlows/add.ctp:3;8
+#: View/CashFlows/edit.ctp:3;8
+#: View/CashFlows/index.ctp:3;8
+#: View/CashFlows/view.ctp:3;8
+msgid "Cash Flows"
+msgstr ""
+
+#: View/CashFlows/add.ctp:4;9
+msgid "Add Cash Flow"
+msgstr ""
+
+#: View/CashFlows/edit.ctp:4;9
+msgid "Edit Cash Flow"
+msgstr ""
+
+#: View/CashFlows/index.ctp:25
+#: View/Examinations/view.ctp:58
+#: View/Expenses/index.ctp:25
+#: View/Groups/index.ctp:22
+#: View/Groups/view.ctp:59
+msgid "modified"
+msgstr ""
+
+#: View/CashFlows/index.ctp:27
+msgid "order_id"
+msgstr ""
+
+#: View/CashFlows/index.ctp:28
+msgid "total"
+msgstr ""
+
+#: View/CashFlows/index.ctp:36
+#: View/Expenses/index.ctp:39
+#: View/PaymentMethods/index.ctp:36
+msgid "All created"
+msgstr ""
+
+#: View/CashFlows/index.ctp:37
+#: View/Expenses/index.ctp:40
+msgid "All modified"
+msgstr ""
+
+#: View/CashFlows/index.ctp:40
+msgid "All order_id"
+msgstr ""
+
+#: View/CashFlows/index.ctp:41
+msgid "All total"
+msgstr ""
+
+#: View/CashFlows/view.ctp:9
+msgid "View Cash Flow"
+msgstr ""
+
+#: View/CashFlows/view.ctp:35
+msgid "Order"
+msgstr ""
+
+#: View/CashFlows/view.ctp:39
+#: View/Orders/recibo.ctp:120
+#: View/Orders/view.ctp:55
+msgid "Total"
+msgstr ""
+
+#: View/Clients/add.ctp:3;7
+#: View/Clients/edit.ctp:3;8
+#: View/Clients/index.ctp:3;8
+#: View/Clients/view.ctp:3;8
+#: View/Elements/navbar-left.ctp:29
+msgid "Clients"
+msgstr ""
+
+#: View/Clients/add.ctp:3;8
+msgid "Add Client"
+msgstr ""
+
+#: View/Clients/add.ctp:35
+#: View/Orders/recibo.ctp:38
+#: View/Orders/view.ctp:35
+msgid "Animal"
+msgstr ""
+
+#: View/Clients/add.ctp:43
+#: View/Elements/navbar-left.ctp:33
+#: View/Examinations/add.ctp:3;8
+#: View/Examinations/edit.ctp:3;8
+#: View/Examinations/index.ctp:3;8
+#: View/Examinations/view.ctp:3;8
+msgid "Examinations"
+msgstr ""
+
+#: View/Clients/edit.ctp:4;9
+msgid "Edit Client"
+msgstr ""
+
+#: View/Clients/index.ctp:27
+msgid "cpf"
+msgstr ""
+
+#: View/Clients/index.ctp:28
+msgid "rg"
+msgstr ""
+
+#: View/Clients/index.ctp:29
+msgid "date_birth"
+msgstr ""
+
+#: View/Clients/index.ctp:30
+#: View/Clinics/index.ctp:27
+#: View/Veterinarians/index.ctp:28
+msgid "phone"
+msgstr ""
+
+#: View/Clients/index.ctp:31
+#: View/Clinics/index.ctp:28
+#: View/Veterinarians/index.ctp:29
+msgid "phone_2"
+msgstr ""
+
+#: View/Clients/index.ctp:32
+#: View/Clinics/index.ctp:29
+#: View/Groups/view.ctp:62
+#: View/Users/index.ctp:24
+#: View/Veterinarians/index.ctp:30
+msgid "email"
+msgstr ""
+
+#: View/Clients/index.ctp:44
+msgid "All cpf"
+msgstr ""
+
+#: View/Clients/index.ctp:45
+msgid "All rg"
+msgstr ""
+
+#: View/Clients/index.ctp:47
+#: View/Clinics/index.ctp:41
+#: View/Veterinarians/index.ctp:43
+msgid "All phone"
+msgstr ""
+
+#: View/Clients/index.ctp:48
+#: View/Clinics/index.ctp:42
+#: View/Veterinarians/index.ctp:44
+msgid "All phone_2"
+msgstr ""
+
+#: View/Clients/index.ctp:49
+#: View/Clinics/index.ctp:43
+#: View/Veterinarians/index.ctp:45
+msgid "All email"
+msgstr ""
+
+#: View/Clients/view.ctp:9
+msgid "View Client"
+msgstr ""
+
+#: View/Clients/view.ctp:39
+msgid "Cpf"
+msgstr ""
+
+#: View/Clients/view.ctp:43
+msgid "Rg"
+msgstr ""
+
+#: View/Clients/view.ctp:47
+msgid "Date Birth"
+msgstr ""
+
+#: View/Clients/view.ctp:51
+#: View/Clinics/view.ctp:39
+#: View/Veterinarians/view.ctp:43
+msgid "Phone"
+msgstr ""
+
+#: View/Clients/view.ctp:55
+#: View/Clinics/view.ctp:43
+#: View/Veterinarians/view.ctp:47
+msgid "Phone 2"
+msgstr ""
+
+#: View/Clients/view.ctp:59
+#: View/Clinics/view.ctp:47
+#: View/Users/view.ctp:59
+#: View/Veterinarians/view.ctp:51
+msgid "Email"
+msgstr ""
+
+#: View/Clients/view.ctp:63
+#: View/Clinics/view.ctp:51
+#: View/Veterinarians/view.ctp:55
+msgid "Cep"
+msgstr ""
+
+#: View/Clients/view.ctp:67
+#: View/Clinics/view.ctp:55
+#: View/Veterinarians/view.ctp:59
+msgid "Address"
+msgstr ""
+
+#: View/Clients/view.ctp:71
+#: View/Clinics/view.ctp:59
+#: View/Veterinarians/view.ctp:63
+msgid "Neighborhood"
+msgstr ""
+
+#: View/Clients/view.ctp:75
+#: View/Clinics/view.ctp:63
+#: View/Veterinarians/view.ctp:67
+msgid "City"
+msgstr ""
+
+#: View/Clients/view.ctp:79
+#: View/Veterinarians/view.ctp:71
+msgid "Uf"
+msgstr ""
+
+#: View/Clinics/add.ctp:3;8
+#: View/Clinics/edit.ctp:3;8
+#: View/Clinics/index.ctp:3;8
+#: View/Clinics/view.ctp:3;8
+#: View/Elements/navbar-left.ctp:32
+msgid "Clinics"
+msgstr ""
+
+#: View/Clinics/add.ctp:4;9
+msgid "Add Clinic"
+msgstr ""
+
+#: View/Clinics/edit.ctp:4;9
+msgid "Edit Clinic"
+msgstr ""
+
+#: View/Clinics/view.ctp:9
+msgid "View Clinic"
+msgstr ""
+
+#: View/Clinics/view.ctp:67
+msgid "UF"
+msgstr ""
+
+#: View/Clinics/view.ctp:75
+#: View/PaymentMethods/view.ctp:43
+#: View/Veterinarians/view.ctp:79
+msgid "Related Order Services"
+msgstr ""
+
+#: View/Clinics/view.ctp:85
+#: View/PaymentMethods/view.ctp:53
+msgid "N° Order Services"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:11
+msgid "Hello "
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:19
+#: Plugin/admin/Controller/DashboardController.php:20
+#: Plugin/admin/View/Layouts/admin.ctp:49
+msgid "Dashboard"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:25
+msgid "Entries"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:30
+msgid "Animails"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:31
+#: View/Veterinarians/add.ctp:3;8
+#: View/Veterinarians/edit.ctp:3;8
+#: View/Veterinarians/index.ctp:3;8
+#: View/Veterinarians/view.ctp:3;8
+msgid "Veterinarians"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:35
+#: View/Species/add.ctp:3;8
+#: View/Species/edit.ctp:3;8
+#: View/Species/index.ctp:3;8
+#: View/Species/view.ctp:3;8
+msgid "Species"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:41
+msgid "Finance"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:45
+#: View/Expenses/add.ctp:3;8
+#: View/Expenses/edit.ctp:3;8
+#: View/Expenses/index.ctp:3;8
+#: View/Expenses/view.ctp:3;8
+msgid "Expenses"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:46
+msgid "Cash Flow"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:47
+#: View/PaymentMethods/add.ctp:3;8
+#: View/PaymentMethods/edit.ctp:3;8
+#: View/PaymentMethods/index.ctp:3;8
+#: View/PaymentMethods/view.ctp:3;8
+msgid "Payment Methods"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:53
+msgid "Reports"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:64
+msgid "Order Services"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:70
+msgid "Configs"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:74
+#: View/Users/add.ctp:3;7
+#: View/Users/edit.ctp:3;7
+#: View/Users/index.ctp:3;7
+#: View/Users/view.ctp:3;7
+#: Plugin/admin/Controller/UsersController.php:28
+msgid "Users"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:75
+#: View/Groups/add.ctp:3;7
+#: View/Groups/edit.ctp:3;7
+#: View/Groups/index.ctp:3;7
+#: View/Groups/view.ctp:3;7
+#: Plugin/admin/Controller/GroupsController.php:21
+#: Plugin/admin/View/Users/admin_index.ctp:24
+msgid "Groups"
+msgstr ""
+
+#: View/Elements/navbar-left.ctp:76
+msgid "Access Control"
+msgstr ""
+
+#: View/Elements/navbar-top.ctp:31
+msgid "Member since"
+msgstr ""
+
+#: View/Elements/navbar-top.ctp:41
+msgid "Profile"
+msgstr ""
+
+#: View/Elements/navbar-top.ctp:47
+msgid "Sign out"
+msgstr ""
+
+#: View/Examinations/add.ctp:4;9
+msgid "Add Examination"
+msgstr ""
+
+#: View/Examinations/edit.ctp:4;9
+msgid "Edit Examination"
+msgstr ""
+
+#: View/Examinations/index.ctp:27
+#: View/Expenses/index.ctp:30
+#: View/Orders/recibo.ctp:143
+#: View/Orders/view.ctp:92
+msgid "value"
+msgstr ""
+
+#: View/Examinations/index.ctp:39
+#: View/Expenses/index.ctp:46
+msgid "All value"
+msgstr ""
+
+#: View/Examinations/view.ctp:9
+msgid "View Examination"
+msgstr ""
+
+#: View/Examinations/view.ctp:39
+#: View/Expenses/view.ctp:47
+msgid "Value"
+msgstr ""
+
+#: View/Examinations/view.ctp:60
+#: View/Orders/index.ctp:26
+#: View/Veterinarians/view.ctp:92
+msgid "animal_id"
+msgstr ""
+
+#: View/Examinations/view.ctp:61
+#: View/Orders/index.ctp:27
+#: View/Veterinarians/view.ctp:93
+msgid "clinic_id"
+msgstr ""
+
+#: View/Examinations/view.ctp:62
+#: View/Orders/index.ctp:28
+#: View/Veterinarians/view.ctp:94
+msgid "veterinarian_id"
+msgstr ""
+
+#: View/Examinations/view.ctp:63
+#: View/Orders/index.ctp:29
+#: View/Veterinarians/view.ctp:95
+msgid "payment_method_id"
+msgstr ""
+
+#: View/Examinations/view.ctp:64
+#: View/Orders/index.ctp:30
+#: View/Veterinarians/view.ctp:96
+msgid "discount"
+msgstr ""
+
+#: View/Examinations/view.ctp:65
+#: View/Expenses/index.ctp:28
+#: View/Groups/view.ctp:60
+#: View/Orders/index.ctp:31
+#: View/Veterinarians/view.ctp:97
+#: Plugin/admin/View/Users/admin_add.ctp:67
+#: Plugin/admin/View/Users/admin_edit.ctp:71
+msgid "status"
+msgstr ""
+
+#: View/Examinations/view.ctp:66
+#: View/Veterinarians/view.ctp:98
+msgid "file"
+msgstr ""
+
+#: View/Expenses/add.ctp:4;9
+msgid "Add Expense"
+msgstr ""
+
+#: View/Expenses/edit.ctp:4;9
+msgid "Edit Expense"
+msgstr ""
+
+#: View/Expenses/index.ctp:27
+msgid "type"
+msgstr ""
+
+#: View/Expenses/index.ctp:31
+msgid "date_payment"
+msgstr ""
+
+#: View/Expenses/index.ctp:43
+msgid "All type"
+msgstr ""
+
+#: View/Expenses/index.ctp:44
+msgid "All status"
+msgstr ""
+
+#: View/Expenses/index.ctp:47
+msgid "All date_payment"
+msgstr ""
+
+#: View/Expenses/view.ctp:9
+msgid "View Expense"
+msgstr ""
+
+#: View/Expenses/view.ctp:35
+msgid "Type"
+msgstr ""
+
+#: View/Expenses/view.ctp:51
+msgid "Date Payment"
+msgstr ""
+
+#: View/Groups/add.ctp:3;8
+msgid "Add Group"
+msgstr ""
+
+#: View/Groups/edit.ctp:3;8
+msgid "Edit Group"
+msgstr ""
+
+#: View/Groups/index.ctp:20
+msgid "alias"
+msgstr ""
+
+#: View/Groups/view.ctp:8
+msgid "View Group"
+msgstr ""
+
+#: View/Groups/view.ctp:25
+msgid "Alias"
+msgstr ""
+
+#: View/Groups/view.ctp:45
+msgid "Related Users"
+msgstr ""
+
+#: View/Groups/view.ctp:55
+#: View/Users/index.ctp:20
+#: Plugin/admin/View/Users/admin_login.ctp:9
+msgid "username"
+msgstr ""
+
+#: View/Groups/view.ctp:56
+#: Plugin/admin/View/Users/admin_login.ctp:15
+msgid "password"
+msgstr ""
+
+#: View/Groups/view.ctp:57
+#: View/Users/index.ctp:21
+msgid "group_id"
+msgstr ""
+
+#: View/Groups/view.ctp:63
+msgid "image"
+msgstr ""
+
+#: View/Orders/add.ctp:5;10
+#: View/Orders/edit.ctp:3;8
+#: View/Orders/index.ctp:3;8
+#: View/Orders/recibo.ctp:3;8
+#: View/Orders/view.ctp:3;8
+msgid "Orders"
+msgstr ""
+
+#: View/Orders/add.ctp:6;11
+msgid "Add Order"
+msgstr ""
+
+#: View/Orders/add.ctp:33
+#: View/Orders/edit.ctp:31
+#: View/Orders/index.ctp:47;74
+#: View/Orders/view.ctp:65
+msgid "In analysis"
+msgstr ""
+
+#: View/Orders/add.ctp:33
+#: View/Orders/edit.ctp:31
+#: View/Orders/index.ctp:47;76
+#: View/Orders/view.ctp:67
+msgid "Completed"
+msgstr ""
+
+#: View/Orders/edit.ctp:4;9
+msgid "Edit Order"
+msgstr ""
+
+#: View/Orders/index.ctp:42
+msgid "All animal_id"
+msgstr ""
+
+#: View/Orders/index.ctp:43
+msgid "All clinic_id"
+msgstr ""
+
+#: View/Orders/index.ctp:44
+msgid "All veterinarian_id"
+msgstr ""
+
+#: View/Orders/index.ctp:45
+msgid "All payment_method_id"
+msgstr ""
+
+#: View/Orders/index.ctp:46
+msgid "All discount"
+msgstr ""
+
+#: View/Orders/index.ctp:87
+msgid " Receipt"
+msgstr ""
+
+#: View/Orders/recibo.ctp:4
+msgid "Receipt"
+msgstr ""
+
+#: View/Orders/recibo.ctp:9
+msgid "Receipt Order"
+msgstr ""
+
+#: View/Orders/recibo.ctp:51
+msgid "Name Client"
+msgstr ""
+
+#: View/Orders/recibo.ctp:57
+msgid "Client Phone"
+msgstr ""
+
+#: View/Orders/recibo.ctp:63
+msgid "Client E-mail"
+msgstr ""
+
+#: View/Orders/recibo.ctp:70
+msgid "Name Clinic"
+msgstr ""
+
+#: View/Orders/recibo.ctp:76
+msgid "Clinic Phone"
+msgstr ""
+
+#: View/Orders/recibo.ctp:82
+msgid "Clinic E-mail"
+msgstr ""
+
+#: View/Orders/recibo.ctp:89
+msgid "Name Veterinarian"
+msgstr ""
+
+#: View/Orders/recibo.ctp:95
+msgid "Veterinarian Phone"
+msgstr ""
+
+#: View/Orders/recibo.ctp:101
+msgid "Veterinarian E-mail"
+msgstr ""
+
+#: View/Orders/recibo.ctp:108
+#: View/Orders/view.ctp:47
+msgid "Payment Method"
+msgstr ""
+
+#: View/Orders/recibo.ctp:114
+#: View/Orders/view.ctp:51
+msgid "Discount"
+msgstr ""
+
+#: View/Orders/recibo.ctp:135
+#: View/Orders/view.ctp:80
+msgid "Related Examinations"
+msgstr ""
+
+#: View/Orders/view.ctp:9
+msgid "View Order"
+msgstr ""
+
+#: View/Orders/view.ctp:27
+msgid "OS"
+msgstr ""
+
+#: View/Orders/view.ctp:39
+msgid "Clinic"
+msgstr ""
+
+#: View/Orders/view.ctp:43
+msgid "Veterinarian"
+msgstr ""
+
+#: View/Orders/view.ctp:71
+msgid "File"
+msgstr ""
+
+#: View/Orders/view.ctp:72
+msgid "Result"
+msgstr ""
+
+#: View/Pages/home.ctp:26
+msgid "New Animals"
+msgstr ""
+
+#: View/Pages/home.ctp:33;54;75;96
+msgid "More info"
+msgstr ""
+
+#: View/Pages/home.ctp:47
+msgid "Clinic Registered"
+msgstr ""
+
+#: View/Pages/home.ctp:68
+msgid "Veterinary Registered"
+msgstr ""
+
+#: View/Pages/home.ctp:89
+msgid "Orders under review"
+msgstr ""
+
+#: View/PaymentMethods/add.ctp:4;9
+msgid "Add Payment Method"
+msgstr ""
+
+#: View/PaymentMethods/edit.ctp:4;9
+msgid "Edit Payment Method"
+msgstr ""
+
+#: View/PaymentMethods/view.ctp:9
+msgid "View Payment Method"
+msgstr ""
+
+#: View/Species/add.ctp:4;9
+msgid "Add Species"
+msgstr ""
+
+#: View/Species/edit.ctp:4;9
+msgid "Edit Species"
+msgstr ""
+
+#: View/Species/view.ctp:9
+msgid "View Species"
+msgstr ""
+
+#: View/Users/add.ctp:3;8
+msgid "Add User"
+msgstr ""
+
+#: View/Users/edit.ctp:3;8
+msgid "Edit User"
+msgstr ""
+
+#: View/Users/view.ctp:8
+msgid "View User"
+msgstr ""
+
+#: View/Users/view.ctp:26
+#: Plugin/admin/View/Users/admin_add.ctp:41
+#: Plugin/admin/View/Users/admin_edit.ctp:58
+#: Plugin/admin/View/Users/admin_index.ctp:35
+#: Plugin/admin/View/Users/admin_login.ctp:12
+msgid "Username"
+msgstr ""
+
+#: View/Users/view.ctp:32
+#: Plugin/admin/View/Users/admin_add.ctp:3
+#: Plugin/admin/View/Users/admin_edit.ctp:20
+#: Plugin/admin/View/Users/admin_index.ctp:33
+msgid "Group"
+msgstr ""
+
+#: View/Users/view.ctp:65
+msgid "Image"
+msgstr ""
+
+#: View/Veterinarians/add.ctp:4;9
+msgid "Add Veterinarian"
+msgstr ""
+
+#: View/Veterinarians/edit.ctp:4;9
+msgid "Edit Veterinarian"
+msgstr ""
+
+#: View/Veterinarians/index.ctp:27
+msgid "crmv"
+msgstr ""
+
+#: View/Veterinarians/index.ctp:42
+msgid "All crmv"
+msgstr ""
+
+#: View/Veterinarians/view.ctp:9
+msgid "View Veterinarian"
+msgstr ""
+
+#: View/Veterinarians/view.ctp:39
+msgid "Crmv"
+msgstr ""
+
+#: View/Veterinarians/view.ctp:89
+msgid "N° Order Service"
+msgstr ""
+
+#: Model/Animal.php:validation for field removed;validation for field active;validation for field name;validation for field sex
+#: Model/Breed.php:validation for field removed;validation for field active;validation for field name
+#: Model/CashFlow.php:validation for field removed;validation for field active
+#: Model/Client.php:validation for field removed;validation for field active;validation for field name
+#: Model/Clinic.php:validation for field active;validation for field removed;validation for field name
+#: Model/Examination.php:validation for field removed;validation for field active;validation for field name
+#: Model/Expense.php:validation for field removed;validation for field type;validation for field name
+#: Model/Group.php:validation for field name
+#: Model/PaymentMethod.php:validation for field removed;validation for field active;validation for field name
+#: Model/Species.php:validation for field removed;validation for field active;validation for field name
+#: Model/User.php:validation for field username;validation for field password
+#: Model/Veterinarian.php:validation for field removed;validation for field active;validation for field name
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Animal.php:validation for field client_id;validation for field specie_id;validation for field breed_id
+#: Model/CashFlow.php:validation for field order_id;validation for field total
+#: Model/ExaminationsOrder.php:validation for field order_id;validation for field examination_id
+#: Model/Order.php:validation for field animal_id;validation for field clinic_id;validation for field veterinarian_id;validation for field payment_method_id
+#: Model/User.php:validation for field group_id
+msgid "numeric"
+msgstr ""
+
+#: Model/Expense.php:validation for field date_payment
+msgid "date"
+msgstr ""
+
+#: Model/Order.php:validation for field file
+#: Model/User.php:validation for field image
+msgid "Something went wrong with the file upload"
+msgstr ""
+
+#: Model/Order.php:validation for field file
+#: Model/User.php:validation for field image
+msgid "Invalid file, only images allowed"
+msgstr ""
+
+#: Model/Order.php:validation for field file
+#: Model/User.php:validation for field image
+msgid "Something went wrong processing your file"
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:45
+msgid "Group created."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:61
+#: Plugin/admin/Controller/UsersController.php:67;118
+msgid "Invalid ID"
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:68
+msgid "The Group was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:86
+msgid "Invalid ID."
+msgstr ""
+
+#: Plugin/admin/Controller/GroupsController.php:91
+msgid "The user was deleted."
+msgstr ""
+
+#: Plugin/admin/Controller/PermissionsController.php:40
+#: Plugin/admin/View/Users/admin_index.ctp:15
+msgid "Permissions"
+msgstr ""
+
+#: Plugin/admin/Controller/PermissionsController.php:167
+msgid "All Controllers was sincronized."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:51
+msgid "User saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:72
+msgid "User was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:123
+msgid "password was saved."
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:137
+msgid "Invalid ID!"
+msgstr ""
+
+#: Plugin/admin/Controller/UsersController.php:141
+msgid "User was deleted."
+msgstr ""
+
+#: Plugin/admin/Controller/Component/AclPermissionsComponent.php:96
+msgid "You have no authority to access this router."
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_add.ctp:3
+#: Plugin/admin/View/Groups/admin_edit.ctp:6
+msgid "Name:"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_add.ctp:17
+#: Plugin/admin/View/Groups/admin_edit.ctp:20
+#: Plugin/admin/View/Users/admin_add.ctp:85
+#: Plugin/admin/View/Users/admin_edit.ctp:89
+#: Plugin/admin/View/Users/admin_reset_password.ctp:32
+msgid "Save"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:22
+#: Plugin/admin/View/Users/admin_index.ctp:45
+msgid "Edit"
+msgstr ""
+
+#: Plugin/admin/View/Groups/admin_index.ctp:29
+#: Plugin/admin/View/Users/admin_index.ctp:52
+msgid "Delete"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:51
+msgid "Languages"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:56
+msgid "Brazilian"
+msgstr ""
+
+#: Plugin/admin/View/Layouts/admin.ctp:65
+msgid "English"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:5
+msgid "Sincronize"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:20
+msgid "Section"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:66
+msgid "alowed"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:74
+msgid "denied"
+msgstr ""
+
+#: Plugin/admin/View/Permissions/admin_index.ctp:83
+msgid "allowed"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:54
+#: Plugin/admin/View/Users/admin_login.ctp:18
+msgid "Password"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_add.ctp:77
+#: Plugin/admin/View/Users/admin_edit.ctp:81
+msgid "Unactive"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_edit.ctp:4
+msgid "Reset password"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_index.ctp:4
+msgid "Add"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_login.ctp:22
+msgid "Login"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_reset_password.ctp:7
+msgid "Password:"
+msgstr ""
+
+#: Plugin/admin/View/Users/admin_reset_password.ctp:19
+msgid "Password again:"
+msgstr ""
+
+#: View/Errors/error400.ctp:19
+#: View/Errors/error500.ctp:19
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:21
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:20
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Layouts/default.ctp:17
+#: View/Layouts/error.ctp:17
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: View/Layouts/default.ctp:18
+msgid "CakePHP %s"
+msgstr ""
+
+#: webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
